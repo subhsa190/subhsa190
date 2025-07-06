@@ -32,9 +32,6 @@
 
 ---
 
-## 📅 Yearly GitHub Contribution
-
-![snake gif](https://raw.githubusercontent.com/subhsa190/subhsa190/output/github-contribution-grid-snake.svg)
 
 
 ---
