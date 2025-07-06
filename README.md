@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Subham Saha!
 
-🚀 A passionate coder from India, currently focused on mastering **Full-Stack Development** and cracking **Data Structures & Algorithms**.  
-💻 I code in **C, Java, HTML, CSS, and JavaScript**.  
+🚀 A passionate coder from India, currently focused on mastering **Full-Stack Development** and cracking **Data Structures & Algorithms**.    
 🎯 My goal? land an awesome placement!
 
 ---
