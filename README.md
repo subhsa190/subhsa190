@@ -34,8 +34,8 @@
 
 ## 📅 Yearly GitHub Contribution
 
-<!-- GitHub Heatmap style contribution graph like Hitesh Choudhary -->
-[![Subham's Contribution Graph](https://github-contribution-graph.vercel.app/api?username=subhsa190&theme=github-dark)](https://github.com/subhsa190)
+![snake gif](https://raw.githubusercontent.com/subhsa190/subhsa190/output/github-contribution-grid-snake.svg)
+
 
 ---
 
