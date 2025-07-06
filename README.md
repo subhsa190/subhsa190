@@ -2,7 +2,7 @@
 
 🚀 A passionate coder from India, currently focused on mastering **Full-Stack Development** and cracking **Data Structures & Algorithms**.  
 💻 I code in **C, Java, HTML, CSS, and JavaScript**.  
-🎯 My goal? To become a 4⭐ CodeChef coder and land an awesome placement!
+🎯 My goal? land an awesome placement!
 
 ---
 
