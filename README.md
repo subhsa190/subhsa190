@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi Everyone! 👋  
+I'm Subham Saha — a passionate full-stack developer and problem solver .  
+Currently learning DSA, Java, and exploring web technologies.
 
 <!--
 **subhsa190/subhsa190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
