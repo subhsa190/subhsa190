@@ -2,17 +2,19 @@
 
 🚀 A passionate coder from India, currently focused on mastering **Full-Stack Development** and cracking **Data Structures & Algorithms**.  
 💻 I code in **C, Java, HTML, CSS, and JavaScript**.  
-🎯 My goal? land an awesome placement!
+🎯 My goal? To become a 4⭐ CodeChef coder and land an awesome placement!
 
 ---
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 ---
 
@@ -31,11 +33,10 @@
 
 ---
 
-## 🔥 Streaks & Trophies
+## 📅 Yearly GitHub Contribution
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=subhsa190&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=subhsa190&theme=monokai&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Heatmap style contribution graph like Hitesh Choudhary -->
+[![Subham's Contribution Graph](https://github-contribution-graph.vercel.app/api?username=subhsa190&theme=github-dark)](https://github.com/subhsa190)
 
 ---
 
@@ -45,11 +46,4 @@
 
 ---
 
-## 🕹️ Contribution Activity (GitHub Game)
-
-[![GitHub Game of Life](https://github-readme-activity-graph.cyclic.app/graph?username=subhsa190&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 _Keep building. Keep solving. Keep learning._ ✨  
-
