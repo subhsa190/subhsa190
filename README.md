@@ -4,6 +4,19 @@
 🎯 My goal? land an awesome placement!
 
 ---
+### 🖥️ Languages
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+
+### 🛠️ Tools
+- VS Code
+- Git & GitHub
+
+
+---
 
 ## 🛠️ Tech Stack
 
